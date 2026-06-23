@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a graduated engineer in computer science and I am looking for my first experience as a software developer.<br>I am currently working on a password manager in my free time.
+Quality engineer and developer in my free time.
 
 
 ## 🌐 Socials:
